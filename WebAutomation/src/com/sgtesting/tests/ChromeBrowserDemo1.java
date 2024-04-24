@@ -34,7 +34,7 @@ public class ChromeBrowserDemo1 {
 		try
 		{
 			
-			oBrowser.get("https://mail.google.com/mail/u/0/#inbox");
+			oBrowser.get("https://mail.google.com/mail/");
 			Thread.sleep(5000);
 			
 		}
